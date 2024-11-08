@@ -1,4 +1,4 @@
-module ehang.io/nps
+module github.com/luoxk/nps
 
 go 1.15
 
